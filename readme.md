@@ -126,7 +126,7 @@ Fereidani, Ali Alipour, et al. "ReSCom: A Reconfigurable Spiking Neural Network 
 ## 📜 License
 
 This repository contains the open-source implementation of the ReSCom accelerator.
-The source code is distributed under the **[MIT License](LICENSE)**.
+The source code is distributed under the **[MIT License](LICENSE.md)**.
 
 ### Important Notice
 
