@@ -5,9 +5,9 @@ This repository contains the hardware and software implementation of **ReSCom**,
 ## 📄 Paper Reference
 
 **Title:** ReSCom: A reconfigurable spiking neural network accelerator using stochastic computing  
-**Authors:** Ali Alipour Fereidani, Mohammad Rasoul Roshanshah, and Saeed Safari
+**Authors:** Ali Alipour Fereidani, Mohammad Rasoul Roshanshah, and Saeed Safari  
 **Published:** Integration, Vol. 112, 2027, Art.No. 102906, ISSN 0167-9260  
-**DOI:** 10.1016/j.vlsi.2026.102906
+**DOI:** 10.1016/j.vlsi.2026.102906  
 **Link:** [https://www.sciencedirect.com/science/article/pii/S0167926026002610](https://www.sciencedirect.com/science/article/pii/S0167926026002610)
 
 ## 📁 Project Structure
